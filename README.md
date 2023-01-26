@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kimbi619
-- 👀 I’m interested in javaScript
-- 🌱 I’m currently learning react js and php
-- 💞️ I’m looking to collaborate on javaScript related projects
+- 👋 Hi, I’m @ki
+- 🌱 I’m currently learning golang
+- 💞
 - 📫 You can reach me on twitter at https://twitter.com/DarlingtonKimbi
 
 <!---
