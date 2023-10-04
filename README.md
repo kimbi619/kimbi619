@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ki
 - 🌱 I’m currently learning golang
-- 💞
-- 📫 You can reach me on twitter at https://twitter.com/DarlingtonKimbi
+- 💞 I’m looking to collaborate on Open Source
+- 📫 You can reach me 
 
 <!---
 kimbi619/kimbi619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
