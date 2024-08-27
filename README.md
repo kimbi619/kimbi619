@@ -6,7 +6,7 @@
 ## About Me
 - 🌱 Currently learning Golang
 - 🕵️ Looking to collaborate on Open Source projects 💫
-- 📫 Reach me at: +237 676 63 80 50
+- 📫 Reach me at: kimbidarl@gmail.com / wa: +237 676 63 80 50 
 
 ## 🛠️ Languages and Tools
 
