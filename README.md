@@ -8,6 +8,17 @@
 - 🕵️ Looking to collaborate on Open Source projects 💫
 - 📫 Reach me at: kimbidarl@gmail.com / wa: +237 676 63 80 50 
 
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-kimbidarl%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:kimbidarl@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B237%20676%2063%2080%2050-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/237676638050)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimbi%20Darlington-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimbi-darlington-a867691b1/)
+[![Twitter](https://img.shields.io/badge/Twitter-kdaprov-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kdaprov)
+[![YouTube](https://img.shields.io/badge/YouTube-Rising%20Tide-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rising_tide)
+[![Medium](https://img.shields.io/badge/Medium-Darlington%20Kimbi-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darlingtonkimbi)
+
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
