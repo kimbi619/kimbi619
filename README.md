@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Kimbi Darlington
 
+## 🛸 Welcome to my side of the coding Universe 🪐👽
+
+
 ## About Me
 - 🌱 Currently learning Golang
-- 🕵️ Looking to collaborate on Open Source projects
+- 🕵️ Looking to collaborate on Open Source projects 💫
 - 📫 Reach me at: +237 676 63 80 50
 
 ## 🛠️ Languages and Tools
